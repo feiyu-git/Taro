@@ -6,7 +6,9 @@ export default class Index extends Component {
 
   componentWillMount () { }
 
-  componentDidMount () { }
+  // componentDidMount () {
+  //   console.log('process.env.VUE_APP_MODE', process.env)
+  //  }
 
   componentWillUnmount () { }
 
